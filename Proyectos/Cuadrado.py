@@ -9,3 +9,4 @@ perimetro = str(perimetro)
 print(" El Area del cuadrado es" + " " + area + " " +"cm" + " " + "y su perimetro es" + " " + perimetro + " " +"cm")
 
 
+                        
