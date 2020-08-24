@@ -1,9 +1,7 @@
 # AREA Y PERIMETRO DE UN RECTANGULO
 
-base = input("Ingrese la base del rectangulo: ")
-base = int(base)
-altura = input("Ingrese la altura del rectangulo: ")
-altura = int(altura)
+base = int(input("Ingrese la base del rectangulo: "))
+altura = int(input("Ingrese la altura del rectangulo: "))
 area= base * altura
 perimetro = (base * 2)+(altura*2)
 area = str(area)
