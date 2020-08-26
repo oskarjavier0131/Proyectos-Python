@@ -28,7 +28,7 @@ elif opcion == 2:
     area = str(area)
     perimetro = str(perimetro)
     print("El area del rectangulo es" + " " + area + " " + "y su perimetro es" + " " + perimetro)
-# AREA Y PERIMETRO DE UN TRIANGULO RECTANGULO     
+# AREA Y PERIMETRO DE UN TRIANGULO RECTANGULO    
 elif opcion == 3:
     base = input("Ingrese la base del triangulo: ")
     base = int(base)
