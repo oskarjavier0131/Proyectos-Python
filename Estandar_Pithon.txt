@@ -1,0 +1,7 @@
+def run():
+    pass
+
+
+# Entry point
+if __name__ == "__main__":
+    run()
