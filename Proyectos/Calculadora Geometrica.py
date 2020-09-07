@@ -1,5 +1,4 @@
 # Esta es calculadora Geometrica
-
 menu = """ 
 Bienvenido a la Calculadora Geometrica de JAVIER 😎😎😎
 
@@ -10,6 +9,7 @@ Bienvenido a la Calculadora Geometrica de JAVIER 😎😎😎
 ELIGE UNA OPCIÒN: """
 
 opcion = int(input(menu))
+
 # AREA Y PERIMETRO DE UN CUADRADO
 if opcion == 1:
     lado_a = input("Ingrese un lado del cuadrado: ")
@@ -41,3 +41,5 @@ elif opcion == 3:
     print("El area del Triangulo Rectangulo  es" + " " + area + " " + "y su perimetro es" + " " + perimetro)
 else:
     print("elige una opciòn valida por favor")
+
+

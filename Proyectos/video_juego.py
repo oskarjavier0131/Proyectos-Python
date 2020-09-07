@@ -10,7 +10,7 @@ def run():
         else:
             print("Busca un nùmero mas pequeño")
         numero_elegido = int(input("Elige otro nùmero: "))
-    print("!Ganastes!!!")
+    print("!Ganaste!!!")
 
 
 # Entry point
